@@ -13,8 +13,8 @@ Amazing Prime, is a platform for streaming movies and TV shows. Amazing prime wa
 4: Create the Movie Database
 
 ## Data Resources:
-- wikipedia-movies.json, 
-- movies_metadata.csv, 
+- [wikipedia-movies json file](https://github.com/kritika2604/Movies-ETL-2-/blob/main/Resources/wikipedia-movies.json), 
+- [movies metadata  csv file](https://github.com/kritika2604/Movies-ETL-2-/blob/main/Resources/movies_metadata.csv), 
 - ratings.csv
 
 ## Softwares: 
